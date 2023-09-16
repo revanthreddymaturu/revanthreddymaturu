@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my **Problem Solving Skills**
 
-- 🌱 I’m currently learning **Python, AI and DL frameworks**
+- 🌱 I’m currently learning **ReactJS**
 
 <!--- 💬 Ask me about **Salesforce**-->
 
