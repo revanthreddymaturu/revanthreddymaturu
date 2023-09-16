@@ -13,7 +13,7 @@
 
 <!--- 💬 Ask me about **Salesforce**-->
 
-- 📫 How to reach me **revanth@umd.edu**
+- 📫 How to reach me **revanth@terpmail.umd.edu**
 
 <!--- ⚡ Fun fact **I am Funny**-->
 <h3 align="left">Connect with me:</h3>
