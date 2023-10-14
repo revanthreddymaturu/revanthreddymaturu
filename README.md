@@ -20,7 +20,7 @@
 </a>
 </p>
 <h3 align="left">Skills, Languages and Tools:</h3>
-<p align="left">Generic: HTML, CSS, JS, ReactJS, Java. MySQL, RestAPIs, Problem Solving </p>
+<p align="left"><span style="font-style:bold">Generic:</span> HTML, CSS, TailwindCSS, JS, ReactJS, Java. MySQL, RestAPIs, Problem Solving </p>
 <p align="left">Niche: Salesforce, Apex, Lightning Web Components(LWC), Aura Components, Visualforce, SOQL, SOSL </p>
 
 <!--
