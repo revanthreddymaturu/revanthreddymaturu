@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Revanth Reddy Maturu</h1>
+<h1 align="center">Hello World, I'm Revanth Reddy Maturu</h1>
 <h3 align="center">Software Developer/ Salesforce Developer/ Salesforce Admin</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revanthreddymaturu&label=Profile%20views&color=0e75b6&style=flat" alt="revanthreddymaturu" /> </p>
 
@@ -11,7 +9,6 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-<!--- 💬 Ask me about **Salesforce**-->
 
 - 📫 How to reach me **revanth@terpmail.umd.edu**
 
