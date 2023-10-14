@@ -20,8 +20,8 @@
 </a>
 </p>
 <h3 align="left">Skills, Languages and Tools:</h3>
-<p align="left"><span>**Generic**:</span> HTML, CSS, TailwindCSS, JS, ReactJS, Java. MySQL, RestAPIs, Problem Solving </p>
-<p align="left"><span>**Niche**:</span> Salesforce, Apex, Lightning Web Components(LWC), Aura Components, Visualforce, SOQL, SOSL </p>
+<p align="left"><h4>Generic:</h4> HTML, CSS, TailwindCSS, JS, ReactJS, Java. MySQL, RestAPIs, Problem Solving </p>
+<p align="left"><h4>Niche:</h4> Salesforce, Apex, Lightning Web Components(LWC), Aura Components, Visualforce, SOQL, SOSL </p>
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=revanthreddymaturu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="revanthreddymaturu" /></p>
