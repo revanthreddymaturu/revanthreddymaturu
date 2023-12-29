@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on my **Problem Solving Skills**
 
-- 🌱 I’m currently learning **ReactJS**
-
 
 - 📫 How to reach me **revanth@terpmail.umd.edu**
 
