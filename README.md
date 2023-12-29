@@ -18,7 +18,7 @@
 </a>
 </p>
 <h3 align="left">Skills, Languages and Tools:</h3>
-<p align="left"><h4>Generic:</h4> HTML, CSS, TailwindCSS, JS, ReactJS, Java. MySQL, RestAPIs, Problem Solving </p>
+<p align="left"><h4>Generic:</h4> HTML, CSS, TailwindCSS, JS, ReactJS, Redux.js, Java. MySQL, RestAPIs, Problem Solving </p>
 <p align="left"><h4>Niche:</h4> Salesforce, Apex, Lightning Web Components(LWC), Aura Components, Visualforce, SOQL, SOSL </p>
 
 <!--
