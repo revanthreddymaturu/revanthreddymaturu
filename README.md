@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ReddyMaturu" target="blank"><img src="https://img.shields.io/twitter/follow/revanthreddymaturu?logo=twitter&style=for-the-badge" alt="revanthreddymaturu"  </p>
 
-- 🔭 I’m currently working on my ****
+<!---🔭 I’m currently working to become a **good engineer**- ->
 
 
 - 📫 How to reach me **revanth@terpmail.umd.edu**
