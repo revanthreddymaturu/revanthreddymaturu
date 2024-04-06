@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ReddyMaturu" target="blank"><img src="https://img.shields.io/twitter/follow/revanthreddymaturu?logo=twitter&style=for-the-badge" alt="revanthreddymaturu"  </p>
 
-- 🔭 I’m currently working on my **Problem Solving Skills**
+- 🔭 I’m currently working on my ****
 
 
 - 📫 How to reach me **revanth@terpmail.umd.edu**
@@ -18,7 +18,7 @@
 </a>
 </p>
 <h3 align="left">Skills, Languages and Tools:</h3>
-<p align="left"><h4>Generic:</h4> HTML, CSS, TailwindCSS, JS, ReactJS, Redux.js, Java. MySQL, RestAPIs, Problem Solving </p>
+<p align="left"><h4>Generic:</h4> HTML, CSS, TailwindCSS, JS, ReactJS, Redux.js, Java, Django, PostgreSQL MySQL, RestAPIs, Problem Solving </p>
 <p align="left"><h4>Niche:</h4> Salesforce, Apex, Lightning Web Components(LWC), Aura Components, Visualforce, SOQL, SOSL </p>
 
 <!--
