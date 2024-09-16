@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/ReddyMaturu" target="blank"><img src="https://img.shields.io/twitter/follow/revanthreddymaturu?logo=twitter&style=for-the-badge" alt="revanthreddymaturu"  </p>
 
-<!---🔭 I’m currently working to become a **good engineer**- ->
+<!---🔭 I’m currently working on multiple projects that helps me become a **good engineer**- ->
 
 
-- 📫 How to reach me **revanth@terpmail.umd.edu**
+- 📫 How to reach me **revanthmaturu.work@gmail.com**
 
 <!--- ⚡ Fun fact **I am Funny**-->
 <h3 align="left">Connect with me:</h3>
@@ -18,7 +18,7 @@
 </a>
 </p>
 <h3 align="left">Skills, Languages and Tools:</h3>
-<p align="left"><h4>Generic:</h4> HTML, CSS, TailwindCSS, JS, ReactJS, Redux.js, Java, Python, Django, PostgreSQL MySQL, RestAPIs, Problem Solving </p>
+<p align="left"><h4>Generic:</h4> HTML, CSS, TailwindCSS, JS, ReactJS, Redux.js, React Native, Java, Spring boot,AWS S3, Python, Django, PostgreSQL MySQL, RestAPIs, Problem Solving </p>
 <p align="left"><h4>Data Analysis:</h4> Numpy, Pandas and R programming </p>
 <p align="left"><h4>Niche:</h4> Salesforce, Apex, Lightning Web Components(LWC), Aura Components, Visualforce, SOQL, SOSL </p>
 
