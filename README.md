@@ -10,7 +10,6 @@
 - 📫 How to reach me **revanthmaturu.work@gmail.com**
 
 <!--- ⚡ Fun fact **I am Funny**-->
-<h3 align="left">Connect with me:</h3>
 <div align="left">
 
 </p>
